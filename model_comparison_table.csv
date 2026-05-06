@@ -1,0 +1,5 @@
+Experiment,Layers,Epochs,Batch Size,Accuracy
+Base,"[16, 8]",20,32,0.9825
+More Neurons,"[32, 16]",20,32,0.9825
+More Epochs,"[16, 8]",40,32,0.98
+Smaller Batch,"[16, 8]",20,16,0.9825
