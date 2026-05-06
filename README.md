@@ -58,18 +58,6 @@ The goal of this part is to build a strong conceptual foundation before moving o
 
 ---
 
-## 📚 Further Reading
 
-* Basics of Machine Learning
-* Neural Network Fundamentals
-* Model Evaluation Techniques
-
----
-
-## 🤝 Contributing
-
-Feel free to fork this project and improve it. Suggestions and contributions are welcome!
-
----
 
 This project is for educational purposes.
