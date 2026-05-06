@@ -62,7 +62,7 @@ pip install -r requirements.txt
 ### 3. Run the Notebook
 
 ```bash
-jupyter notebook
+Google Colab
 ```
 
 ---
