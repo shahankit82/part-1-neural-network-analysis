@@ -28,44 +28,6 @@ The goal of this part is to build a strong conceptual foundation before moving o
 * Backpropagation (basic idea)
 * Overfitting and Underfitting
 
----
-
-## ⚙️ Project Structure
-
-```
-part-1-neural-network-analysis/
-│
-├── data/               # Dataset(s) used for analysis
-├── notebooks/          # Jupyter notebooks for exploration
-├── src/                # Source code (if applicable)
-├── results/            # Output results, graphs, and metrics
-└── README.md           # Project documentation
-```
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone <your-repo-link>
-cd part-1-neural-network-analysis
-```
-
-### 2. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the Notebook
-
-```bash
-Google Colab
-```
-
----
 
 ## 📊 Analysis Approach
 
